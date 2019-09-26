@@ -3,9 +3,10 @@
 ## Quickstart
 1) `git clone https://github.com/Chillout93/TicTacToe_Template.git`
 2) `npm install`
-3) Navgiate to public folder in a file directory
-4) Open `index.html` in a browser
-4) Run `npm test` to run all your tests, it will pick up any file with a .test extension
+3) `npm start`
+4) Navgiate to public folder in a file directory
+5) Open `index.html` in a browser
+6) Run `npm test` to run all your tests, it will pick up any file with a .test extension
 
 ## Rules
 Your challenge is to implement a simple 3x3 board of TicTacToe (https://en.wikipedia.org/wiki/Tic-tac-toe) with the above skeleton project in Typescript and React. The task will start on Friday, and we'll review all our solutions on Monday morning. 
